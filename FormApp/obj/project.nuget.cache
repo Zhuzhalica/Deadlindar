@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4L3NcP2qQMpcNJEhhtaviJJIf6SEQlaoNHbJYdGGN/MNj9EY3NuwUvA4vcmUTpg+PPTnJW15XFml7rOInYiJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\German\\source\\repos\\WebApiServer\\FormApp\\FormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\German\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
