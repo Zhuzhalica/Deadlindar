@@ -1,0 +1,2 @@
+C:\Users\portu\Desktop\Deadlindar\WpfSchedule\obj\Debug\WpfSchedule.csproj.AssemblyReference.cache
+C:\Users\portu\Desktop\Deadlindar\WpfSchedule\obj\Debug\WpfSchedule.csproj.SuggestedBindingRedirects.cache

@@ -7,6 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiServer", "WebApiServe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiClient", "WebApiClient\WebApiClient.csproj", "{2B56C4C3-907F-422A-892E-7CE93E211BD3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{02508459-0882-4EA7-A095-A58B51DBF700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSchedule", "WpfSchedule\WpfSchedule.csproj", "{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleTest", "ScheduleTest\ScheduleTest.csproj", "{E20B8F60-B4F1-434E-B525-50808FE84425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,11 +27,24 @@ Global
 		{2B56C4C3-907F-422A-892E-7CE93E211BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B56C4C3-907F-422A-892E-7CE93E211BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B56C4C3-907F-422A-892E-7CE93E211BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20B8F60-B4F1-434E-B525-50808FE84425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20B8F60-B4F1-434E-B525-50808FE84425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20B8F60-B4F1-434E-B525-50808FE84425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20B8F60-B4F1-434E-B525-50808FE84425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FBCA9092-8715-4686-9836-259F095D968F}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B56C4C3-907F-422A-892E-7CE93E211BD3} = {02508459-0882-4EA7-A095-A58B51DBF700}
+		{7BEE44D5-B177-40E4-9AA2-EC4ABA81DE0B} = {02508459-0882-4EA7-A095-A58B51DBF700}
+		{E20B8F60-B4F1-434E-B525-50808FE84425} = {02508459-0882-4EA7-A095-A58B51DBF700}
 	EndGlobalSection
 EndGlobal

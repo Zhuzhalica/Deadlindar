@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eaYYNYY2cdXQwc6sQyWyOSvM3eLkK+aRut9mj6WsvLRSHcdo+ZtbAq2dHQ6HOCGnGd6sEDzWIaOYJpn/kCBPZQ==",
+  "dgSpecHash": "HlJVfCtrNBfViAF9FTU5FRx2r+g0bojyYU5tuwk86R6cONOayI1Mu4UISlk3aO2xG4Mf9D5nNG+1sk/TWUWdbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\portu\\Desktop\\Deadlindar\\WebApiServer\\WebApiServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\portu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\portu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\portu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\portu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+    "C:\\Users\\portu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,6 +11,7 @@ namespace WebApiClient
     {
         public readonly string login;
         public readonly string password;
+        private string name;
 
         public User(string login, string password)
         {
